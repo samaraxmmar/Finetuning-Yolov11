@@ -1,4 +1,5 @@
 # YOLOv11 Fine-Tuning for Equipment Detection
+![Ultralitics](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDrXjoMvEbqGPhQpejQhCRgs1AGoMa0fskg&s)
 
 This repository contains a Jupyter Notebook for fine-tuning the YOLOv11 object detection model to detect equipment in a custom dataset.
 
